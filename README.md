@@ -1,0 +1,3 @@
+# README
+
+This project encompasses the study and implementation of Diffusion Models and Neural Radiance Fields (NeRFs). The initial phase involves building a diffusion model from scratch and understanding the state-of-the-art StableDiffusion text-to-image diffusion model. Following this, the project delves into the concept of NeRFs, utilizing them to represent a single large image with a neural network. Additionally, the project explores advanced topics related to neural radiance fields, providing a comprehensive understanding of these cutting-edge techniques in generative modeling and 3D scene representation.
